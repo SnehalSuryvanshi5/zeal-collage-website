@@ -1,0 +1,55 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+    font-family:Arial, sans-serif;
+}
+
+header{
+    background:#003366;
+    color:white;
+    padding:15px;
+    text-align:center;
+}
+
+nav{
+    margin-top:10px;
+}
+
+nav a{
+    color:white;
+    text-decoration:none;
+    margin:0 15px;
+}
+
+.hero{
+    text-align:center;
+    padding:100px 20px;
+    background:#f4f4f4;
+}
+
+.hero h2{
+    font-size:40px;
+    margin-bottom:10px;
+}
+
+.hero button{
+    margin-top:20px;
+    padding:10px 20px;
+    border:none;
+    background:#003366;
+    color:white;
+    cursor:pointer;
+}
+
+.about{
+    padding:50px 20px;
+    text-align:center;
+}
+
+footer{
+    background:#003366;
+    color:white;
+    text-align:center;
+    padding:15px;
+}
