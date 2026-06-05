@@ -1,0 +1,11 @@
+{
+  "name": "zeal-college-website",
+  "version": "1.0.0",
+  "description": "Simple Zeal College Website",
+  "main": "script.js",
+  "scripts": {
+    "start": "live-server"
+  },
+  "author": "Snehal",
+  "license": "MIT"
+}
